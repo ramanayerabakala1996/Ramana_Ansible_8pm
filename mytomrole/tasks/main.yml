@@ -1,2 +1,3 @@
 ---
 # tasks file for mytomrole
+- include_tasks: myuser.yml
