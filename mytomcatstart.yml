@@ -1,7 +1,0 @@
----
-- name: i want to tomcat
-  systemd:
-    state: started
-    daemon_reload: yes
-    name:  tomcat
-    enabled: yes
